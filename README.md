@@ -1,6 +1,6 @@
 # RL-Markov_Decision_Process
 
-# Using two different methods
+## Using two different methods
 
 ** A linear solver to solve the system Ax=b.
 
